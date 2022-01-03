@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Jan 2022 21:25:04 GMT
+ * Generated on Mon, 03 Jan 2022 21:43:22 GMT
  */
 
 export const ColorBaseGrayLight : string;
