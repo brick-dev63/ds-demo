@@ -2,10 +2,9 @@
   "name": "ds-brick-tokens",
   "version": "0.1.1",
   "description": "Style tokens",
-  "main": "build/index.js",
+  "main": "dist/index.js",
   "files": [
-    "build",
-    "properties"
+    "dist"
   ],
   "scripts": {
     "build": "node_modules/.bin/style-dictionary build",

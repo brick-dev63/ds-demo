@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Jan 2022 21:43:22 GMT
+ * Generated on Mon, 03 Jan 2022 21:44:54 GMT
  */
 
 export const ColorBaseGrayLight = "#cccccc";
-export const ColorBaseGrayMedium = "#999999";
+export const ColorBaseGrayMedium = "#acacac";
 export const ColorBaseGrayDark = "#111111";
 export const ColorBaseRed = "#ff0000";
 export const ColorBaseGreen = "#00ff00";
