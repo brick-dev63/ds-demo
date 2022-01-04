@@ -1,6 +1,6 @@
 {
   "name": "ds-brick-components",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "brick demo components",
   "author": "Rick Bowman <rickbowman63@gmail.com>",
   "homepage": "https://github.com/brick-dev63/ds-demo#readme",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "ds-brick-tokens": "^0.1.1"
+    "ds-brick-tokens": "^0.1.2"
   },
   "bugs": {
     "url": "https://github.com/brick-dev63/ds-demo/issues"
